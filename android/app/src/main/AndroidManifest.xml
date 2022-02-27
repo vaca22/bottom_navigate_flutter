@@ -1,9 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.bottom_navigate_flutter">
    <application
-        android:label="bottom_navigate_flutter"
+        android:label="好吃"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@drawable/a8">
         <activity
             android:name=".MainActivity"
             android:exported="true"
